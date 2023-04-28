@@ -1,0 +1,2 @@
+directive @cacheable on OBJECT | FIELD_DEFINITION
+directive @nonCacheable on OBJECT | FIELD_DEFINITION
